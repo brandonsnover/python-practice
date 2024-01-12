@@ -52,4 +52,9 @@ def avg_three(num1, num2, num3):
 
 print(avg_three(2, 3, 4))
 
+# Write a method that takes in a number and returns the number times 10 plus 30. Then run the method and print the result.
+def ten_x_plus_thirty(num):
+  return num * 10 + 30
 
+
+print(ten_x_plus_thirty(8))
